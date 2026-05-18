@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+numpy
+opencv-python-headless
+transformers
+torch
+motor
+pymongo
+scikit-learn
+pandas
+nltk
